@@ -62,7 +62,7 @@ basic-http-server game
 
 ## Community
 
-Forum: https://love2d.org/forums/\
-Discord: https://discord.gg/rhUets9\
-IRC: [#love@irc.oftc.net](https://webchat.oftc.net/?channels=love)\
+Forum: https://love2d.org/forums/ \
+Discord: https://discord.gg/rhUets9 \
+IRC: [#love@irc.oftc.net](https://webchat.oftc.net/?channels=love) \
 Twitter: [@obey_love](https://twitter.com/obey_love)
