@@ -4,7 +4,7 @@
 
 #### Instal the LÖVE binary:
 
-Official site : https://love2d.org/\
+Official site : https://love2d.org/ \
 Arch Linux : `pacman -S love`\
 Homebrew : `brew install --cask love`\
 Chocolatey : `choco install love`
