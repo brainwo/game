@@ -1,0 +1,11 @@
+DOME - Design-Oriented Minimalist Engine
+
+Usage: 
+  dome nest [options] [--] (<file> | <directory>) ... 
+
+Options: 
+  -c --create               Create a bundle from files.
+  -h --help                 Show this help message.
+  -o FILE, --output=FILE    The file to bundle into.
+  --include-dot-files       Include dot-prefixed files in bundle.
+
